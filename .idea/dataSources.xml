@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3254880444">
+    <data-source source="LOCAL" name="hibernate.cfg.xml" uuid="0d94c4dd-4c9d-4cf9-a590-724cbee37144">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/wenku?autoReconnect=true&amp;useUnicode=true&amp;createDatabaseIfNotExist=true&amp;characterEncoding=utf-8</jdbc-url>
+      <user-name>gongjiao</user-name>
+      <user-password>df9adf9adf9adf9adf9adf9a</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
